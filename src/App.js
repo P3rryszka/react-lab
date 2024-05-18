@@ -1,5 +1,6 @@
 import './App.css';
 import {useState} from "react";
+import "milligram";
 
 function App() {
     const [email, setEmail] = useState('yeahYeah');
